@@ -1,5 +1,5 @@
 # Platform-Mergers-and-Antitrust
-This data file "List of Acquisitions_Dist.xlsx" contains information about the merger and acquisition strategies of big tech firms: Amazon, Apple, Google (Alphabet), Meta and Microsoft, from their inception to August 2020. In total, we report 856 mergers.
+This data file "List_of_Acquisitions_2022_11_06.xlsx" contains information about the merger and acquisition strategies of big tech firms: Amazon, Apple, Google (Alphabet), Meta and Microsoft, from their inception to August 2020. In total, we report 856 mergers.
 ![Forgithub](https://user-images.githubusercontent.com/80263432/200214173-a5ed42d7-48f9-4a84-98e5-1437ffef45f1.png)
 
 If you wish to refer to this dataset please cite the associated paper (open access). Suggested citation:
