@@ -7,6 +7,6 @@ Geoffrey Parker, Georgios Petropoulos, Marshall Van Alstyne, Platform mergers an
 
 The authors are highly indebted to Nicole Evans, Aidai Kozubekova & Tracy Cai for their excellent research support in creating this dataset.
 
-Please contact us for questions and updates at: gpetrop@mit.edu 
+Please contact us for questions, suggested corrections and updates at: gpetrop@mit.edu 
 
 The authors
